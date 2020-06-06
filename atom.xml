@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>baiye的博客</title>
+  <icon>https://www.gravatar.com/avatar/090506a605575944c2b1671dcffc7cfd</icon>
+  <subtitle>胆小认生，不易相处</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/baiye139/"/>
+  <updated>2020-06-05T15:05:22.631Z</updated>
+  <id>https://github.com/baiye139/</id>
+  
+  <author>
+    <name>baiye</name>
+    <email>1627480476@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://github.com/baiye139/2020/060516107.html"/>
+    <id>https://github.com/baiye139/2020/060516107.html</id>
+    <published>2020-06-05T08:03:56.120Z</published>
+    <updated>2020-06-05T15:05:22.631Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
